@@ -5,3 +5,5 @@ Human: Hello
 AI: Hi there! What can I do for you?
 Human: What is Chatbot? 
 AI: Chatbot is an artificial intelligence (AI) system designed to simulate conversation with human users through audio or text. It has become a popular tool for businesses, customer service, and entertainment.
+Human: Explain me this "I have to die. If it is now, well then I die now; if later, then now I will take my lunch, since the hour for lunch has arrived - and dying I will tend to later." 
+AI: This quote is by Epicurus, a Greek philosopher. He was expressing his belief that death should not be feared, as it comes to us all eventually. However, he also believed that we should still live life to the fullest and enjoy everyday tasks, like eating lunch, as death will come when it will come.
